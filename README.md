@@ -2,7 +2,7 @@
 
 ### I'm 15 and unemployed!
 
-I enjoy engineering and creating open-source libraries, as well as making websites using frameworks such as Django, Flask, React, Vue.
+I enjoy engineering and creating open-source libraries, as well as making websites using frameworks and some no code tools.
 
 ### Languages I've worked with:
 
@@ -25,6 +25,3 @@ I enjoy engineering and creating open-source libraries, as well as making websit
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/mannyherndz/mannyherndz)](https://github.com/mannyherndz)
